@@ -9,4 +9,15 @@ function increment() {
     countEl.innerText = count
 }
 
+function decrement() {
+    if(count < 1) {
+        count = 0
+    }
+    else {
+        count--
+        countEl.innerText = count
+    }  
+}
+
+
 
