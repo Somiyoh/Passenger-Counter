@@ -18,7 +18,7 @@ h2 {
 }
 
 button {
-    border: none;
+    border: 1.5px solid black;
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
@@ -28,12 +28,26 @@ button {
     border-radius: 5px;
 }
 
+.container {
+    margin-top: 215px;
+    margin-left: 150px;
+    background-color: white;
+    max-width: 80%;
+   
+    border: 2.5px solid black;
+    border-radius: 8.5px;
+}
+
 #increment-btn {
     background: darkred;
 }
 
 #decrement-btn {
     background: darkred;
+}
+
+#save-el {
+    font-size: 19;
 }
 
 #save-btn {
