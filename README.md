@@ -4,5 +4,7 @@ This is a simple program made using basic HTML, CSS, and JS to keep track of pas
 
 # Usage
 
-You can click on increment and decrement button to keep track of the passengers.
+You can click on the increment and decrement buttons to keep track of the passengers. Also, use save button to save the count.
+
+
 
